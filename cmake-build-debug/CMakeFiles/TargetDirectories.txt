@@ -1,0 +1,3 @@
+/Users/kyleje/Desktop/CLionProjects/project-1 (not git) copy/project-1.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kyleje/Desktop/CLionProjects/project-1 (not git) copy/project-1.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kyleje/Desktop/CLionProjects/project-1 (not git) copy/project-1.1/cmake-build-debug/CMakeFiles/project-1.1.dir
